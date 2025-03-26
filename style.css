@@ -5,14 +5,14 @@
 }
 
 .de1 {
-background-color: rgb(253, 205, 114);
-padding: 50px;
+background-image: linear-gradient(to bottom, rgb(253, 18, 18), rgb(230, 110, 110));
+padding: 30px;
 margin: auto;
 border-radius: 90px;
 }
 
 .de2 {
-    background-color: rgb(128, 141, 255);
+   background-image: linear-gradient(to bottom, rgb(65, 60, 60), rgb(255, 255, 255));
    padding: 50px;
     margin: auto;
     border-radius: 90px;
@@ -20,8 +20,8 @@ border-radius: 90px;
 
 
     .de3 {
-        background-color: rgb(255, 186, 240);
-        padding: 50px;
+        background-image: linear-gradient(to bottom, rgb(238, 50, 82), rgb(255, 125, 149));
+        padding: 20px;
         margin: auto;
         border-radius: 90px;
         }
